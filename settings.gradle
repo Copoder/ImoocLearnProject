@@ -1,0 +1,1 @@
+include ':app', ':my-annotation', ':my-complier', ':core-library', ':my-ec-library'

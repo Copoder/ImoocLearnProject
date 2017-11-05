@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ImoocLearnProject.iml" filepath="$PROJECT_DIR$/ImoocLearnProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-library/core-library.iml" filepath="$PROJECT_DIR$/core-library/core-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-annotation/my-annotation.iml" filepath="$PROJECT_DIR$/my-annotation/my-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-complier/my-complier.iml" filepath="$PROJECT_DIR$/my-complier/my-complier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-ec-library/my-ec-library.iml" filepath="$PROJECT_DIR$/my-ec-library/my-ec-library.iml" />
+    </modules>
+  </component>
+</project>
